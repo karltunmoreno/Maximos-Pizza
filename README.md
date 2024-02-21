@@ -8,7 +8,9 @@ Pizza Restaurant Menu and Pictures.
 ![Ss](https://media.licdn.com/dms/image/D5622AQGOtsUDZa0gDw/feedshare-shrink_1280/0/1707173753669?e=1709769600&v=beta&t=vg3GNpBJB04GCSu619INq6tQ0299QKQXNYOPzbiqDgg)
 
 
+![Ss](https://www.karltunmediamagic.com/assets/img/logo/logo.png)
 
+<p align="center"> :octocat: <b><a href="https://karltunmoreno.github.io/Maximos-Pizza/"> GO TO MAXIMO'S PIZZA </a>
 ________________________________________________________________________________________________
 
 ## What was done.
