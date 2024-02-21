@@ -1,4 +1,4 @@
-# Maximo's-Pizza
+Additional credit: Used Hasthemes JavaSCript and Bootstrap Libraries for further integration. # Maximo's-Pizza
 Pizza Restaurant Menu and Pictures.
 
 
@@ -58,7 +58,8 @@ TECHNOLOGY USED:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-     
+
+Additional credit: Used Hasthemes JavaSCript and Bootstrap Libraries for further integration.    
 _______________________________________________________________________________________________________________________________________________________
 
 # Work Completed
