@@ -1,5 +1,5 @@
-Additional credit: Used Hasthemes JavaSCript and Bootstrap Libraries for further integration. # Maximo's-Pizza
-Pizza Restaurant Menu and Pictures.
+
+Pizza Restaurant Menu website with pictures.
 
 
 
